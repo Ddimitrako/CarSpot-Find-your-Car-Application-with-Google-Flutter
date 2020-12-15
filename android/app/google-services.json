@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "776391000135",
+    "firebase_url": "https://carspot-26eec.firebaseio.com",
+    "project_id": "carspot-26eec",
+    "storage_bucket": "carspot-26eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776391000135:android:7742071b1b0b9d95193162",
+        "android_client_info": {
+          "package_name": "com.GG.CarSpot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776391000135-qg7jc30eu7n8l4nvivfbp5j4hqoeptul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-AfcdgaPSn_H7mBl99wOfd9kOVhNfb24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776391000135-qg7jc30eu7n8l4nvivfbp5j4hqoeptul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3095340973940268~3673479564"
+    }
+  ],
+  "configuration_version": "1"
+}
