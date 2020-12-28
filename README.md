@@ -1,4 +1,4 @@
-# flutter_maps2
+# flutter_maps
 
 A new Flutter application.
 
