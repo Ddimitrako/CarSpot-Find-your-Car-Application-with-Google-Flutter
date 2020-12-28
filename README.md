@@ -1,4 +1,5 @@
 # CarSpot Find Your Car Mobile App
+![](images/main.jpg)
 
 This is my first try to create a mobile app with Google Flutter.
 I hope you will enjoy it.
