@@ -8,6 +8,7 @@ Keep forgetting where you parked? Asking yourself where is my car? Where did I p
 With CarSpot, it will never happen again!
 This simple car locator app is exactly the solution you need to locate your vehicle!
 It allows users to save and search for their car location. Further more user can navigate from their location to the saved car location.
+Link to the app:https://play.google.com/store/apps/details?id=com.GG.CarSpot
 
 ## Getting Started the Flutter
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
